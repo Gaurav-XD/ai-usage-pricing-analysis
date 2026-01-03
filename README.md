@@ -78,3 +78,34 @@ The project follows a structured SQL workflow:
 ---
 
 ## Repository Structure
+ai-usage-pricing-analysis/
+├── README.md
+├── sql/
+│ ├── 00_reset_database.sql
+│ ├── 01_insert_base_data.sql
+│ ├── 02_generate_ai_usage.sql
+│ ├── 03_analysis_queries.sql
+│ └── 04_advanced_pricing_analysis.sql
+├── insights/
+│ ├── key_findings.md
+│ └── pricing_recommendations.md
+└── screenshots/
+├── 01_ai_usage_row_count.png
+├── 02_customer_segments.png
+├── 03_top_ai_consumers.png
+├── 04_mom_usage_growth.png
+└── 05_discount_leakage_risk.png
+
+Each folder is purposefully separated to ensure clarity, reproducibility, and professional analytics workflow.
+
+
+---
+
+## Query Results
+Screenshots in the `screenshots/` folder demonstrate:
+- Scaled AI usage data (100+ rows)
+- Customer segmentation
+- AI usage concentration
+- Advanced SQL window functions
+- Discount leakage and pricing risk
+
