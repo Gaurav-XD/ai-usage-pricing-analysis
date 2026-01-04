@@ -109,3 +109,12 @@ Screenshots in the screenshots/ folder demonstrate:
 
 ## How This Relates to GitLab
 This project reflects pricing and monetization challenges faced by AI-enabled DevSecOps platforms, including usage-based AI monetization, pricing alignment with compute-intensive workloads, and cross-functional pricing analytics for Product, Finance, and Sales teams.
+
+---
+
+## Tableau Dashboard
+Interactive Tableau Public dashboard:
+🔗 https://public.tableau.com/views/AIUsage-BasedPricingDiscountLeakage/AIUsage-BasedPricingDiscountRiskDashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+
+---
+
